@@ -11,7 +11,7 @@ Developed and maintained as an open-source project by **[Hasbati](https://hasbat
 - **Arabic Language Support:** Tailored for Arabic-language websites and platforms, offering a more accessible experience for Arabic-speaking audiences.
 - **Practical Calendar Functionality:** Helps simplify date handling for websites that rely on both Hijri and Gregorian dates.
 - **Open-Source Development:** Makes the project source code available for developers to explore, use, and adapt according to the applicable license.
-- **Maintained by Hasbati:** Developed and maintained by [Hasbati](https://hasbati.com/), with a focus on practical online tools and utilities.
+- **Maintained by Hasbati:** Developed and maintained by Hasbati, with a focus on practical online tools and utilities.
 
 ## Designed for Arabic Web Platforms
 
@@ -31,7 +31,7 @@ The plugin is suitable for WordPress projects that need to:
 
 ## Developer & Official Online Tool
 
-This open-source plugin is developed and maintained by **[Hasbati](https://hasbati.com/)**.
+This open-source plugin is developed and maintained by Hasbati.
 
 For an interactive date conversion experience without installing the plugin, visit the official **[Hasbati Date Converter](https://hasbati.com/date-converter/)**.
 
